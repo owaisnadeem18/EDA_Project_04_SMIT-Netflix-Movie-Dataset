@@ -7,7 +7,7 @@ The objective is to perform **Exploratory Data Analysis (EDA)** on the **Netflix
 
 ## 📂 Dataset  
 
-- **Source**: [Kaggle – Netflix Movies and TV Shows Dataset]([https://www.kaggle.com/](https://www.kaggle.com/datasets/shivamb/netflix-shows))  
+- **Source**: [Kaggle – Netflix Movies and TV Shows Dataset](https://www.kaggle.com/datasets/shivamb/netflix-shows)  
 - **Features Included**:  
   - Title  
   - Type (Movie/TV Show)  
